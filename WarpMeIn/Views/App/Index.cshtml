@@ -1,0 +1,20 @@
+﻿
+@model WarpMeIn.ViewModels.UrlViewModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Home";
+}
+
+<div>
+    <h1>This is the Index</h1>
+    <div asp-validation-summary="ModelOnly"></div>
+    <label asp-for="Url"></label>
+    <form asp-controller="App" asp-action="WarpUrl" method="post">
+        <input asp-for="Url"/>
+        <span asp-validation-for="Url"></span>
+        <button type="submit">WarpUrl</button>
+    </form>
+</div>
+
+
