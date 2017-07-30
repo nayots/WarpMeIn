@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26621.2
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarpMeIn", "WarpMeIn\WarpMeIn.csproj", "{B317A3E7-A0EA-45EF-A278-D99B1217258E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WarpMeIn", "WarpMeIn\WarpMeIn.csproj", "{B317A3E7-A0EA-45EF-A278-D99B1217258E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarpMeIn.Models", "WarpMeIn.Models\WarpMeIn.Models.csproj", "{2528AC24-2FBD-40EC-868E-BDBF109B2186}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarpMeIn.Data", "WarpMeIn.Data\WarpMeIn.Data.csproj", "{ADEA46E7-1EB4-4F80-B895-A04136E77603}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{B317A3E7-A0EA-45EF-A278-D99B1217258E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B317A3E7-A0EA-45EF-A278-D99B1217258E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B317A3E7-A0EA-45EF-A278-D99B1217258E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2528AC24-2FBD-40EC-868E-BDBF109B2186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2528AC24-2FBD-40EC-868E-BDBF109B2186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2528AC24-2FBD-40EC-868E-BDBF109B2186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2528AC24-2FBD-40EC-868E-BDBF109B2186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADEA46E7-1EB4-4F80-B895-A04136E77603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADEA46E7-1EB4-4F80-B895-A04136E77603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADEA46E7-1EB4-4F80-B895-A04136E77603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADEA46E7-1EB4-4F80-B895-A04136E77603}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

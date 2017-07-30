@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using WarpMeIn.ViewModels;
+using WarpMeIn.Data.DTO;
 
 namespace WarpMeIn.Controllers.Web
 {
@@ -20,7 +21,12 @@ namespace WarpMeIn.Controllers.Web
         {
             if (ModelState.IsValid)
             {
-                return Redirect($@"https://www.google.bg/{url}");
+                WarpGateDTO testDTO = new WarpGateDTO
+                {
+                    Url = "https://www.warpme.in/r/abcde"
+                };
+
+                return View("Success", testDTO);
             }
 
             return RedirectToAction("Index");

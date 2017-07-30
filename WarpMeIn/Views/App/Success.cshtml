@@ -1,0 +1,19 @@
+﻿@model WarpMeIn.Data.DTO.WarpGateDTO
+@{
+    ViewData["Title"] = "WarpGate Created!";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="row">
+    <div class="col-md-5 col-md-offset-4">
+        <div class="panel panel-success">
+            <div class="panel-heading">
+                <h3 class="panel-title">Url successfully shortened</h3>
+            </div>
+            <div class="panel-body">
+                <a href="@Model.Url">@Model.Url</a>
+            </div>
+        </div>
+    </div>
+</div>

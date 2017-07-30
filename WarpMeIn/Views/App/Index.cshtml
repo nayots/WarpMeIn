@@ -3,18 +3,30 @@
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
-    ViewBag.Title = "Home";
+    ViewBag.Title = "Index";
 }
 
-<div>
-    <h1>This is the Index</h1>
-    <div asp-validation-summary="ModelOnly"></div>
-    <label asp-for="Url"></label>
-    <form asp-controller="App" asp-action="WarpUrl" method="post">
-        <input asp-for="Url"/>
-        <span asp-validation-for="Url"></span>
-        <button type="submit">WarpUrl</button>
-    </form>
+<div class="container container-fluid center-block">
+    <div class="row">
+        <div class="col-md-5 col-md-offset-4">
+            <h2 class="page-header; text-center">Enter a url and press the button to make it shorter. :)</h2>
+            <div asp-validation-summary="ModelOnly"></div>
+            <form asp-controller="App" asp-action="WarpUrl" method="post" role="form">
+                <div class="form-group">
+                    <div class="input-group">
+                        @*<label class="control-label" asp-for="Url"></label>*@
+                        <input asp-for="Url" class="form-control" autocomplete="off"/>
+                        <span class="input-group-btn" style="padding-left: 3px">
+                            <button class="btn btn-default" type="submit">WarpUrl</button>
+                        </span>
+                    </div>
+                    <span asp-validation-for="Url" class="text-danger"></span>
+                </div>
+                <div>
+                </div>
+            </form>
+        </div>
+    </div>
 </div>
 
 
