@@ -1,0 +1,8 @@
+D:\WarpMeIn\WarpMeIn.Models\bin\Debug\netcoreapp2.0\WarpMeIn.Models.deps.json
+D:\WarpMeIn\WarpMeIn.Models\bin\Debug\netcoreapp2.0\WarpMeIn.Models.dll
+D:\WarpMeIn\WarpMeIn.Models\bin\Debug\netcoreapp2.0\WarpMeIn.Models.pdb
+D:\WarpMeIn\WarpMeIn.Models\obj\Debug\netcoreapp2.0\WarpMeIn.Models.csproj.CoreCompileInputs.cache
+D:\WarpMeIn\WarpMeIn.Models\obj\Debug\netcoreapp2.0\WarpMeIn.Models.AssemblyInfoInputs.cache
+D:\WarpMeIn\WarpMeIn.Models\obj\Debug\netcoreapp2.0\WarpMeIn.Models.AssemblyInfo.cs
+D:\WarpMeIn\WarpMeIn.Models\obj\Debug\netcoreapp2.0\WarpMeIn.Models.dll
+D:\WarpMeIn\WarpMeIn.Models\obj\Debug\netcoreapp2.0\WarpMeIn.Models.pdb

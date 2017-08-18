@@ -31,7 +31,9 @@ namespace WarpMeIn
 
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<WarpMeInDBContext>(options => options.UseSqlServer(config["ConnectionStrings:DefaultConnection"]));
+            services
+                .AddEntityFrameworkSqlServer()
+                .AddDbContext<WarpMeInDBContext>(options => options.UseSqlServer(config["ConnectionStrings:DefaultConnection"]));
             services.AddMvc();
 
             var serviceProvider = services.BuildServiceProvider();

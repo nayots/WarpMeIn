@@ -1,0 +1,11 @@
+D:\WarpMeIn\WarpMeIn.Data\bin\Debug\netcoreapp2.0\WarpMeIn.Data.deps.json
+D:\WarpMeIn\WarpMeIn.Data\bin\Debug\netcoreapp2.0\WarpMeIn.Data.dll
+D:\WarpMeIn\WarpMeIn.Data\obj\Debug\netcoreapp2.0\WarpMeIn.Data.csproj.CoreCompileInputs.cache
+D:\WarpMeIn\WarpMeIn.Data\obj\Debug\netcoreapp2.0\WarpMeIn.Data.AssemblyInfoInputs.cache
+D:\WarpMeIn\WarpMeIn.Data\obj\Debug\netcoreapp2.0\WarpMeIn.Data.AssemblyInfo.cs
+D:\WarpMeIn\WarpMeIn.Data\bin\Debug\netcoreapp2.0\WarpMeIn.Models.dll
+D:\WarpMeIn\WarpMeIn.Data\bin\Debug\netcoreapp2.0\WarpMeIn.Data.pdb
+D:\WarpMeIn\WarpMeIn.Data\bin\Debug\netcoreapp2.0\WarpMeIn.Models.pdb
+D:\WarpMeIn\WarpMeIn.Data\obj\Debug\netcoreapp2.0\WarpMeIn.Data.csprojResolveAssemblyReference.cache
+D:\WarpMeIn\WarpMeIn.Data\obj\Debug\netcoreapp2.0\WarpMeIn.Data.dll
+D:\WarpMeIn\WarpMeIn.Data\obj\Debug\netcoreapp2.0\WarpMeIn.Data.pdb
