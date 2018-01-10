@@ -6,3 +6,4 @@ D:\WarpMeIn\WarpMeIn.Models\obj\Debug\netcoreapp2.0\WarpMeIn.Models.AssemblyInfo
 D:\WarpMeIn\WarpMeIn.Models\obj\Debug\netcoreapp2.0\WarpMeIn.Models.AssemblyInfo.cs
 D:\WarpMeIn\WarpMeIn.Models\obj\Debug\netcoreapp2.0\WarpMeIn.Models.dll
 D:\WarpMeIn\WarpMeIn.Models\obj\Debug\netcoreapp2.0\WarpMeIn.Models.pdb
+D:\WarpMeIn\WarpMeIn.Models\obj\Debug\netcoreapp2.0\WarpMeIn.Models.csprojResolveAssemblyReference.cache

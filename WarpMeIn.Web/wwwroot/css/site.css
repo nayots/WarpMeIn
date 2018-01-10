@@ -1,0 +1,12 @@
+﻿body {
+    background-image: url(../media/img/pattern.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.landing {
+    position: relative;
+    background-size: cover;
+    padding-top: 12rem;
+    padding-bottom: 8rem;
+}

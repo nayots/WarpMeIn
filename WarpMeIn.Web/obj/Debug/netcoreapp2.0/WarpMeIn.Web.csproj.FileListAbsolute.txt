@@ -1,0 +1,15 @@
+D:\WarpMeIn\WarpMeIn.Web\bin\Debug\netcoreapp2.0\WarpMeIn.Web.deps.json
+D:\WarpMeIn\WarpMeIn.Web\bin\Debug\netcoreapp2.0\WarpMeIn.Web.runtimeconfig.json
+D:\WarpMeIn\WarpMeIn.Web\bin\Debug\netcoreapp2.0\WarpMeIn.Web.runtimeconfig.dev.json
+D:\WarpMeIn\WarpMeIn.Web\bin\Debug\netcoreapp2.0\WarpMeIn.Web.dll
+D:\WarpMeIn\WarpMeIn.Web\obj\Debug\netcoreapp2.0\WarpMeIn.Web.csprojResolveAssemblyReference.cache
+D:\WarpMeIn\WarpMeIn.Web\obj\Debug\netcoreapp2.0\WarpMeIn.Web.csproj.CoreCompileInputs.cache
+D:\WarpMeIn\WarpMeIn.Web\obj\Debug\netcoreapp2.0\WarpMeIn.Web.AssemblyInfoInputs.cache
+D:\WarpMeIn\WarpMeIn.Web\obj\Debug\netcoreapp2.0\WarpMeIn.Web.AssemblyInfo.cs
+D:\WarpMeIn\WarpMeIn.Web\bin\Debug\netcoreapp2.0\WarpMeIn.Web.pdb
+D:\WarpMeIn\WarpMeIn.Web\bin\Debug\netcoreapp2.0\WarpMeIn.Data.dll
+D:\WarpMeIn\WarpMeIn.Web\bin\Debug\netcoreapp2.0\WarpMeIn.Models.dll
+D:\WarpMeIn\WarpMeIn.Web\bin\Debug\netcoreapp2.0\WarpMeIn.Data.pdb
+D:\WarpMeIn\WarpMeIn.Web\bin\Debug\netcoreapp2.0\WarpMeIn.Models.pdb
+D:\WarpMeIn\WarpMeIn.Web\obj\Debug\netcoreapp2.0\WarpMeIn.Web.dll
+D:\WarpMeIn\WarpMeIn.Web\obj\Debug\netcoreapp2.0\WarpMeIn.Web.pdb
